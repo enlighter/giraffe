@@ -8,8 +8,8 @@ Giraffe is written in C++11.
 
 If you decide to compile Giraffe yourself, please grab the neural network definition files (eval.net and meval.net) from the binary distribution. They must be in Giraffe's working directory when Giraffe is started. Instructions on how to generate those files will be added later.
 
-* This fork has been created by converting the original mercurial repository @ bitbucket.org/waterreaction/giraffe to a git repository and then
-pruning that git repository using BFG (rtyley.github.io/bfg-repo-cleaner/)
+* This fork has been created by converting the original mercurial repository @ http://bitbucket.org/waterreaction/giraffe to a git repository and then
+pruning that git repository using BFG ( http://rtyley.github.io/bfg-repo-cleaner/ )
 
 ## Gaviota Tablebases ##
 To use Gaviota tablebases, set the path through the GaviotaTbPath option.
